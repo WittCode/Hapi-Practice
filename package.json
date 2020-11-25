@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/WittCode/Hapi-Practice/issues"
   },
-  "homepage": "https://github.com/WittCode/Hapi-Practice#readme"
+  "homepage": "https://github.com/WittCode/Hapi-Practice#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.3",
+    "nodemon": "^2.0.6"
+  }
 }
